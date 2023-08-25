@@ -10,6 +10,7 @@
   "author": "Stefan Madzarac",
   "license": "ISC",
   "dependencies": {
+    "axios": "^1.4.0",
     "lite-server": "^2.6.1"
   }
 }
